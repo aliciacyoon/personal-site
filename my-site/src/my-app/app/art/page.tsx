@@ -61,7 +61,13 @@ export default function ArtPage() {
               <hr />
             </div>
             <div className="projects-grid">
-              <Project projName={"MOVING IN, 2022"}
+              <Project projName={"Life Drawings"}
+                  link = {"https://drive.google.com/file/d/1AI4zecsOW0Ivf_du8NSde2_50o5rNPKW/view?usp=sharing" }
+                  desc={"Presented at the 2023 Providence Youth Filmmaker Showcase"}
+                  skills={"Design, Art, Creativity"}
+                  image={climate}>
+              </Project>
+              <Project projName={"Game Components"}
                   link = {"https://drive.google.com/file/d/1AI4zecsOW0Ivf_du8NSde2_50o5rNPKW/view?usp=sharing" }
                   desc={"Presented at the 2023 Providence Youth Filmmaker Showcase"}
                   skills={"Design, Art, Creativity"}
