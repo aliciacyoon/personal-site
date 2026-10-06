@@ -2,7 +2,7 @@
 import "../globals.css";
 import Project from "../components/Project";
 import perennial from "../project-images/perennial.jpg";
-import spontaneity from "../project-images/spontaneity.jpg"
+import spontaneity from "../project-images/spontaneity.png"
 import dash from "../project-images/dash.png";
 import summertime from "../project-images/summertime.png";
 import youthjapan from "../project-images/youth-japan.png";
