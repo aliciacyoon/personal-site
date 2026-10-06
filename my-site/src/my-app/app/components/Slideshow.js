@@ -1,11 +1,9 @@
 "use client";
 
 import React, {useState} from "react"
-import { StaticImageData } from 'next/image';
-import Image from "next/image";
+import Image, { StaticImageData } from "next/image";
 
-function Slideshow ({ images }: { images: StaticImageData[] }) {
-
+function Slideshow({ images }) {
     const [nextIndex, setNextIndex] = useState (0);
     const arrayLength = images.length;
 
