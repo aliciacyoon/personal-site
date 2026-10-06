@@ -2,6 +2,7 @@
 import "../globals.css";
 import Project from "../components/Project";
 import perennial from "../project-images/perennial.jpg";
+import spontaneity from "../project-images/spontaneity.jpg"
 import dash from "../project-images/dash.png";
 import summertime from "../project-images/summertime.png";
 import youthjapan from "../project-images/youth-japan.png";
@@ -30,6 +31,12 @@ export default function ProjectPage() {
                     desc={"Visual Computing Research."}
                     skills={"TypeScript, SCSS, JavaScript, HTML, UI Design, Research"}
                     image={dash}>
+                </Project>
+                <Project projName={"Spontaneity"}
+                    link = {"https://drive.google.com/file/d/1sNbBBF85RS4zwnbotUW7r7ODsrQwF1BX/view?usp=sharing" }
+                    desc={"Top 10% of YC Applicants for F26."}
+                    skills={"JavaScript, CSS, HTML, Python"}
+                    image={spontaneity}>
                 </Project>
                 <Project projName={"perennial"}
                     link = {"https://devpost.com/software/perennial-t62nhb" }
