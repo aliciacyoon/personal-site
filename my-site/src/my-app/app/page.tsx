@@ -32,7 +32,7 @@ export default function Home() {
                    CyBearSec@Brown</a>, a pre-professional, competitive CyberSecurity club at 
                 Brown University that collaborates with other Ivy League schools through {' '}
                 <a className="link-text" href="https://ivysec.org/" target="_blank">
-                   IVYSEC</a>. I'm currently working with our curriculum committee, composed of Undergraduate and Graduate students,to
+                   IVYSEC</a>. I'm currently working with our curriculum committee, composed of Undergraduate and Graduate students, to
                 make a <b>curriculum for cybersecurity competitions</b> and <b>hosting panels</b> for students interested in Cybersecurity in
                  both the pre-Law and Technological track.
               </h2>
