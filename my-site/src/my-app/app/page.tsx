@@ -18,13 +18,13 @@ export default function Home() {
               <div style= {{paddingTop: '60px'}}>
                 <h1>Hi! My name is Alicia Yoon / 윤채민.</h1>
               <h2>I'm a Computer Science undergraduate at Brown University who is interested in Full-Stack development, 
-                Cybersecurity (RvB Competitions), and Visual Computing. 
+                Cybersecurity, and Visual Computing. 
               </h2>
               <h2>
-                 This summer, I am working in the Pen and Touch Visual Computing Lab at Brown University alongside Professor Andy Van Dam in {' '}
+                 This semester, I am working in the Pen and Touch Visual Computing Lab at Brown University alongside Professor Andy Van Dam in {' '}
                   <a className="link-text" href="https://brown-dash.github.io/Dash-Documentation/about/" target="_blank">
                    Dash</a>, 
-                 sponsored by Adobe. I'm currently <b>researching text-to-3D modelling</b> for creatives that will allow for customization of individual components.
+                 sponsored by Adobe. I'm currently <b>developing intuitive 3D-modelling</b> for creatives that will allow for customization of individual components and working mechanical functions.
               </h2>
               <h2>
                 Cybersecurity: Last semester, I co-founded  {' '}
@@ -32,8 +32,8 @@ export default function Home() {
                    CyBearSec@Brown</a>, a pre-professional, competitive CyberSecurity club at 
                 Brown University that collaborates with other Ivy League schools through {' '}
                 <a className="link-text" href="https://ivysec.org/" target="_blank">
-                   IVYSEC</a>. Up next, we will be 
-                making a <b>curriculum for cybersecurity competitions</b> and <b>hosting panels</b> for students interested in Cybersecurity in
+                   IVYSEC</a>. I'm currently working with our curriculum committee, composed of Undergraduate and Graduate students,to
+                make a <b>curriculum for cybersecurity competitions</b> and <b>hosting panels</b> for students interested in Cybersecurity in
                  both the pre-Law and Technological track.
               </h2>
               <h2>
@@ -41,7 +41,7 @@ export default function Home() {
                 <a className="link-text" href="https://browndems.org/" target="_blank">
                    BrownDems</a> through merch, stickers, and work on ARTivism. I'm also working on
                 design for the {' '} <a className="link-text" href="https://hackatbrown.org/" target="_blank">
-                   Hack@Brown</a> Design team, where I will use Blender and work in a team designing the website and merch for the upcoming 2027 Hackathon!
+                   Hack@Brown</a> Design team, where I use Blender and work in a team designing the website and merch for the upcoming 2027 Hackathon!
               </h2>
               <h2>Everything on this site is written by me, not AI.</h2>
             </div>
